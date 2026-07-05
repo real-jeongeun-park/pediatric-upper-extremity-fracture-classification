@@ -2,10 +2,9 @@
 
 This repository contains the implementation associated with the paper **"Dual-view Supervised Contrastive Learning for Classification of Pediatric Upper Extremity Fractures."**
 
-**Authors:** Yumin Shin¹†, Jeongeun Park²†, Daesung Kang¹*
-¹ School of Bio-Health Convergence, Sungshin Women's University
+**Authors:** Yumin Shin¹†, Jeongeun Park²†, Daesung Kang¹*</br>
+¹ School of Bio-Health Convergence, Sungshin Women's University</br>
 ² School of AI Convergence, Sungshin Women's University
-Contact: {20231624, 20232647}@sungshin.ac.kr, danniskang@gmail.com
 
 ## Overview
 
