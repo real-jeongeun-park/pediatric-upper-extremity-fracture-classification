@@ -12,6 +12,7 @@ Pediatric fractures are among the most common childhood injuries, but the immatu
 
 This project proposes a **dual-view classification model** based on **Supervised Contrastive Learning (SupCon)** that leverages both anteroposterior (AP) and lateral X-ray projections to accurately classify pediatric upper extremity fractures. The model uses a two-stage framework: (1) supervised contrastive pretraining to learn robust feature representations, followed by (2) fine-tuning of the entire network for the downstream classification task.
 
+
 ## Method
 
 ### Model Architecture
@@ -19,6 +20,8 @@ This project proposes a **dual-view classification model** based on **Supervised
 - Each patient's AP and lateral projection images are passed through a **shared-weight encoder** to extract per-view feature vectors.
 - The two extracted features are fused via either **cross-attention** or **simple concatenation**.
 - The fused representation is passed through a **multi-layer perceptron (MLP)** to predict a single fracture class.
+
+<img width="1380" height="1098" alt="image01" src="https://github.com/user-attachments/assets/a67a8698-b7b3-42ec-95c7-6b67d8b8b41f" />
 
 ### Training Strategy: Pretraining + Fine-tuning
 
