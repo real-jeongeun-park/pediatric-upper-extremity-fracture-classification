@@ -1,6 +1,6 @@
 # Dual-view Supervised Contrastive Learning for Classification of Pediatric Upper Extremity Fractures
 
-This repository contains the implementation associated with the paper **"Dual-view Supervised Contrastive Learning for Classification of Pediatric Upper Extremity Fractures."**
+This repository contains the implementation associated with the paper **"Dual-view Supervised Contrastive Learning for Classification of Pediatric Upper Extremity Fractures."**, presented at the Korea Computer Congress (KCC 2026).
 
 **Authors:** Yumin Shin¹†, Jeongeun Park²†, Daesung Kang¹*</br>
 ¹ School of Bio-Health Convergence, Sungshin Women's University</br>
